@@ -1,7 +1,7 @@
 # Comparison of Search Algorithms in Enemy AI Pathfinding
 
 |    NRP     |      Name      |
-| :--------: | :------------: |
+|--: |: |
 | 5025221163 | Muhammad Thariq Darobi |
 | 5025221070 | Muhammad Dzaky Taufiqurrahman |
 | 5025231078 | Bima Prayoga Miftachul Rahmat |
@@ -36,8 +36,6 @@ The Depth-First Search or DFS algorithm traverses or explores data structures, s
 The topic that we chose for our final project is the pathfinding for an enemy to find the player in a made-up video game. In this case, we represent the whole node as a grid 64x64, the root node is the ghost/enemy, and the goal is the player.
 </p>
 
----
-
 ## Background and Problem Statement
 
 <p align="justify">
@@ -55,8 +53,6 @@ In search of the best and shortest search algorithm methodology for enemy pathfi
 <p align="justify">
 Take this picture as an example, we are wondering which pathfinding algorithm will be the best and shortest to find the path from the ghost/enemy coordinate into the player location while considering the obstacles and tracing the path for the ghost/enemy to traverse. Because the player moves for each turn, the AI will have to adapt to our current position respectively. We also created power-ups for the player to use to change the enemy’s pathfinding algorithm.
 </p>
-
----
 
 ## Uniqueness
 
@@ -90,8 +86,6 @@ While timing the movement with the acid fountains and also avoiding an enemy tha
 Our project aims to find an efficient and fastest search algorithm for enemy pathfinding by experimenting with various methods while considering time and memory constraints. This setup not only adds complexity with obstructions but also offers a practical application of theoretical concepts. By comparing these algorithms and experimenting them into the enemy AI mechanism.
 </p>
 
----
-
 ## Methodology
 
 <p align="justify">
@@ -113,8 +107,6 @@ And we are making three comparisons from various environments such as:
 <p align="justify">
 After we trace the path of each pathfinding algorithm we implemented in our game and analyze the Pathfinding Visualizer, we are able to conclude that each pathfinding algorithm might result in a different path, visited node, and speed, especially in a large and complex environment, such as the 64x64 map/grid and Recursive Division (horizontal-skew) maze.
 </p>
-
----
 
 ### 1. Visited Nodes/Time Consumed Comparison in Recursive Division (horizontal-skew) maze
 
@@ -140,8 +132,6 @@ Both BFS and A* Shortest-paths have the same length but different Visited Nodes,
 - BFS: 10.41 Seconds
 - A* Search: 04.81 Seconds
 - DFS: 17.53 Seconds
-
----
 
 ### 2. Path Comparison on a 64x64 grid game
 
@@ -169,8 +159,6 @@ In interactive games and complex environments, such as our 64x64 grid game, the 
 </p>
 <p align="center"><b>Figure 4.2: BFS Path.</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Figure 4.3: A* Path.</b></p>
 
----
-
 ### 3. Inefficient Pathfinding by Depth-First Search (DFS)
 
 <p align="justify">
@@ -189,8 +177,6 @@ As for another issue, DFS when implemented is not suitable for pathfinding becau
   <img src="x" alt="Visual 4.4: Inefficiency of DFS" />
 </p>
 <p align="center"><b>Visual 4.4: Inefficiency of DFS.</b></p>
-
----
 
 ## Conclusion
 
