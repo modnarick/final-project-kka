@@ -10,3 +10,6 @@
 
 # Introduction
 gimpus gimpus gimp gimp gimpus isi disini
+
+
+![roxanna](https://github.com/user-attachments/assets/fc30ec84-f9dc-41ea-9a5a-db49234a5c91)
