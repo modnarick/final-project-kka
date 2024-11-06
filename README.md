@@ -68,6 +68,7 @@ Breadth-First Search visualization :
 ![image](https://github.com/user-attachments/assets/0989304e-2a49-452b-a61c-c8b4beacc3ed)
 </div>
 Figure 2.0: BFS visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
+</div>
 
 A-Star (A*) Search visualization :
 </div>
@@ -75,6 +76,7 @@ A-Star (A*) Search visualization :
 ![image](https://github.com/user-attachments/assets/24dbd526-a3d2-4dd3-be66-d5771890f9e9)
 </div>
 Figure 2.1: A* Search visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
+</div>
 
 Both BFS and A* Search Shortest-path have the same length but different Visited Node hence the BFS consumes more time because it visits additional nodes by traversing by level.
 
