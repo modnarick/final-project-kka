@@ -37,7 +37,7 @@ Figure 2.0: The Map.
 The game we created is a 2-dimensional game with a 64 by 64 grid. The player is portrayed as The Knight who has the objective of finding three keys inside The Dungeon, and finding the way out in the center of The Dungeon.
 
 
-![image](https://github.com/user-attachments/assets/7cc5c338-9b9d-4558-8410-7882e0bab7e2)
+![image](https://github.com/user-attachments/assets/b4242c92-ddaa-4ff1-9ed1-1a56008b95f4)
  Figure 2.1: The Knight.
 
  ![image](https://github.com/user-attachments/assets/47acf2e5-da32-4960-925d-2f36c48bd710)
