@@ -13,28 +13,47 @@
 
 ## Introduction
 
+<p align="justify">
 Pathfinding is an important component in game development, especially for enemy AI that needs to navigate complex environments. Two commonly used algorithms are Breadth-First Search (BFS), A-Star (A*) Search, and Depth-First Search. Each search offers its advantages and disadvantages in terms of efficiency, time, and speed. In a large grid environment such as a 64x64, the shortest path results by those algorithms may be different.
+</p>
 
-Path-finding refers to the concept of finding the shortest route between two distinct points. The concept has been long explored by mathematicians and computer scientists alike, so much so that it has evolved into an entirely separate field of research. This field is heavily based on Dijkstra’s algorithm for pathfinding on weighted paths, where each path takes a certain amount of time, or weight, to traverse.[1]
+<p align="justify">
+Path-finding refers to the concept of finding the shortest route between two distinct points. The concept has been long explored by mathematicians and computer scientists alike, so much so that it has evolved into an entirely separate field of research. This field is heavily based on Dijkstra’s algorithm for pathfinding on weighted paths, where each path takes a certain amount of time, or weight, to traverse. [1]
+</p>
 
-Breadth-first search is a graph traversal algorithm that starts traversing the graph from the root node and explores all the neighboring nodes. Then, it selects the nearest node and explores all the unexplored nodes. While using BFS for traversal, any node in the graph can be considered as the root node.[2] 
+<p align="justify">
+Breadth-first search is a graph traversal algorithm that starts traversing the graph from the root node and explores all the neighboring nodes. Then, it selects the nearest node and explores all the unexplored nodes. While using BFS for traversal, any node in the graph can be considered as the root node. [2]
+</p>
 
-A* Search is an informed best-first search algorithm that efficiently determines the lowest cost path between any two nodes in a directed weighted graph with non-negative edge weights. This algorithm is a variant of Dijkstra’s algorithm. A slight difference arises from the fact that an evaluation function is used to determine which node to explore next.[3]
+<p align="justify">
+A* Search is an informed best-first search algorithm that efficiently determines the lowest cost path between any two nodes in a directed weighted graph with non-negative edge weights. This algorithm is a variant of Dijkstra’s algorithm. A slight difference arises from the fact that an evaluation function is used to determine which node to explore next. [3]
+</p>
 
+<p align="justify">
 The Depth-First Search or DFS algorithm traverses or explores data structures, such as trees and graphs. The algorithm starts at the root node and examines each branch as far as possible before backtracking. [4]
+</p>
 
-The topic that we chose for our final project, is the pathfinding for an enemy to find the player in a made-up video game. In this case, we represent the whole node as a grid 64x64, the root node is the ghost/enemy, and the goal is the player.
+<p align="justify">
+The topic that we chose for our final project is the pathfinding for an enemy to find the player in a made-up video game. In this case, we represent the whole node as a grid 64x64, the root node is the ghost/enemy, and the goal is the player.
+</p>
 
 ## Background and Problem Statement
 
-In search of the best and shortest search algorithm methodology for enemy pathfinding in a video game, we try various different search algorithms (e.g. BFS, DFS, & A*) to implement an enemy AI pathfinding mechanism and we trace the path traversed by the enemy to find the player. 
+<p align="justify">
+In search of the best and shortest search algorithm methodology for enemy pathfinding in a video game, we try various different search algorithms (e.g. BFS, DFS, & A*) to implement an enemy AI pathfinding mechanism and we trace the path traversed by the enemy to find the player.
+</p>
 
-![image](https://github.com/user-attachments/assets/af0192cd-e3b9-4ecf-a4a7-b1af0e197281)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/af0192cd-e3b9-4ecf-a4a7-b1af0e197281" alt="Figure 1.0: Visual representation of the game" />
+</p>
 
-Figure 1.0: Visual representation of the game.
+<p align="center">
+<b>Figure 1.0: Visual representation of the game.</b>
+</p>
 
+<p align="justify">
 Take this picture as an example, we are wondering which pathfinding algorithm will be the best and shortest to find the path from the ghost/enemy coordinate into the player location while considering the obstacles and tracing the path for the ghost/enemy to traverse. Because the player moves for each turn, the AI will have to adapt to our current position respectively. We also created power-ups for the player to use to change the enemy’s pathfinding algorithm.
-
+</p>
 
 ## Uniqueness
 
