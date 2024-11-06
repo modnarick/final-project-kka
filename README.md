@@ -1,6 +1,5 @@
 # Comparison of Search Algorithms in Enemy AI Pathfinding
 
-<p align="justify">
 |    NRP     |      Name      |
 | :--------: | :------------: |
 | 5025221163 | Muhammad Thariq Darobi |
@@ -8,7 +7,6 @@
 | 5025231078 | Bima Prayoga Miftachul Rahmat |
 | 5025231068 | Farrell Reynard Jechoniah Simarmata |
 | 5025231xxx | Anggota 5 |
-</p>
 
 </div>
 
@@ -63,7 +61,7 @@ Take this picture as an example, we are wondering which pathfinding algorithm wi
 ## Uniqueness
 
 <p align="center">
-  <img src="x" alt="Figure 2.0: The Map" />
+  <img src="https://github.com/user-attachments/assets/c50558bd-3da5-4a9c-8247-48c47761da36" alt="Figure 2.0: The Map" />
 </p>
 <p align="center"><b>Figure 2.0: The Map.</b></p>
 
