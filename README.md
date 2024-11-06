@@ -1,5 +1,11 @@
 # Final Project KKA
 
+|    NRP     |      Name      |
+| :--------: | :------------: |
+| 5025221067 | Syalbia Noor Rahmah |
+| 5025221070 | Muhammad Dzaky Taufiqurrahman |
+| 5025231068 | Farrell Reynard Jechoniah Simarmata |
+
 ## A* Search Algorithm Code
 ```cs
 using System.Collections;
