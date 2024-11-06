@@ -202,3 +202,27 @@ As for another issue, DFS when implemented is not suitable for pathfinding becau
 <p align="justify">
 From our comparison of various environments and search algorithms, we can conclude that A-Star is considered the best search algorithm we have tested, because it finds the shortest path, with minimum visited nodes, and generally creates a path faster compared with BFS and DFS. The only drawback of A* is that it needs to inform the goal location, with BFS being the second lead and DFS as the third.
 </p>
+
+## Reference 
+
+- [BFS & DFS – Path Finding Algorithms](https://kgsea.org/wp-content/uploads/2020/07/Raymond-Kim-BFS-DFS-%E2%80%93-Path-Finding-Algorithms.pdf).  
+  Citation: Raymond, K. (2020). BFS & DFS – Path Finding Algorithms. Chadwick International School. Available at: https://kgsea.org/wp-content/uploads/2020/07/Raymond-Kim-BFS-DFS-%E2%80%93-Path-Finding-Algorithms.pdf
+
+- [Breadth First Search Algorithm - Javatpoint](https://www.javatpoint.com/breadth-first-search-algorithm).  
+  Citation: Javatpoint. (n.d.). Breadth First Search Algorithm. Available at: https://www.javatpoint.com/breadth-first-search-algorithm
+
+- [A* Search - Codecademy](https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search).  
+  Citation: Codecademy. (n.d.). A* Search Algorithm. Available at: https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search
+
+- [DFS Algorithm - Simplilearn](https://www.simplilearn.com/tutorials/data-structure-tutorial/dfs-algorithm).  
+  Citation: Simplilearn. (n.d.). DFS Algorithm. Available at: https://www.simplilearn.com/tutorials/data-structure-tutorial/dfs-algorithm
+
+- [A Tile Pathfinding - Unity Asset Store](https://assetstore.unity.com/packages/tools/behavior-ai/a-tile-pathfinding-easy-pathfinding-for-tiles-136493).  
+  Citation: Unity Asset Store. (n.d.). A Tile Pathfinding: Easy Pathfinding for Tiles. Available at: https://assetstore.unity.com/packages/tools/behavior-ai/a-tile-pathfinding-easy-pathfinding-for-tiles-136493
+
+- [Kenney Assets](https://kenney.nl/assets).  
+  Citation: Kenney. (n.d.). Assets. Available at: https://kenney.nl/assets
+
+- [Pathfinding Visualizer - Clement Mihailescu](https://clementmihailescu.github.io/Pathfinding-Visualizer).  
+  Citation: Mihailescu, C. (n.d.). Pathfinding Visualizer. Available at: https://clementmihailescu.github.io/Pathfinding-Visualizer
+
