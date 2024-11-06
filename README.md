@@ -85,8 +85,8 @@ The game we created is a 2-dimensional game with a 64 by 64 grid. The player is 
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/366db68b-e058-4fae-a073-cbdc298ce1fd" alt="Figure 2.1: The Knight" width="320" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/d19813f6-9bd5-488b-aadf-3bd10e0b0fce" alt="Figure 2.2: The Ghost" width="320" height="320" />
+  <img src="https://github.com/user-attachments/assets/366db68b-e058-4fae-a073-cbdc298ce1fd" alt="Figure 2.1: The Knight" width="180" height="180" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d19813f6-9bd5-488b-aadf-3bd10e0b0fce" alt="Figure 2.2: The Ghost" width="180" height="180" />
 </p>
 <p align="center"><b>Figure 2.1: The Knight.</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Figure 2.2: The Ghost.</b></p>
 
@@ -96,8 +96,8 @@ While timing the movement with the acid fountains and also avoiding an enemy tha
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e49725da-62b8-49ad-986c-c5574729e5e1" alt="Figure 2.3: Power-ups" width="320" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/4710b7de-e8b2-4df1-a30b-1f8fdb5f1513" alt="Figure 2.3: Power-ups" width="320" height="320" />
+  <img src="https://github.com/user-attachments/assets/e49725da-62b8-49ad-986c-c5574729e5e1" alt="Figure 2.3: Power-ups" width="180" height="180" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/4710b7de-e8b2-4df1-a30b-1f8fdb5f1513" alt="Figure 2.3: Power-ups" width="180" height="180" />
 </p>
 <p align="center"><b>Figure 2.3: Power-ups.</b></p>
 
