@@ -119,17 +119,17 @@ After we trace the path of each pathfinding algorithm we implemented in our game
 ### 1. Visited Nodes/Time Consumed Comparison in Recursive Division (horizontal-skew) maze
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/6ab00b4f-53ff-46c9-a087-867413176fa1)" alt="Figure 3.0: BFS visualization from Pathfinding Visualizer" />
+  <img src="https://github.com/user-attachments/assets/6ab00b4f-53ff-46c9-a087-867413176fa1" alt="Figure 3.0: BFS visualization from Pathfinding Visualizer" width="320" height="320" />
 </p>
 <p align="center"><b>Figure 3.0: BFS visualization from Pathfinding Visualizer.</b></p>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/aebe019b-0ad7-4991-9a20-985b2d58fa1c)" alt="Figure 3.1: A* Search visualization from Pathfinding Visualizer" />
+  <img src="https://github.com/user-attachments/assets/aebe019b-0ad7-4991-9a20-985b2d58fa1c" alt="Figure 3.1: A* Search visualization from Pathfinding Visualizer" width="320" height="320" />
 </p>
 <p align="center"><b>Figure 3.1: A* Search visualization from Pathfinding Visualizer.</b></p>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/845f691e-f22a-4c25-91b0-7ee4e54c4f09)" alt="Figure 3.2: DFS Search visualization from Pathfinding Visualizer" />
+  <img src="https://github.com/user-attachments/assets/845f691e-f22a-4c25-91b0-7ee4e54c4f09" alt="Figure 3.2: DFS Search visualization from Pathfinding Visualizer" width="320" height="320" />
 </p>
 <p align="center"><b>Figure 3.2: DFS Search visualization from Pathfinding Visualizer.</b></p>
 
