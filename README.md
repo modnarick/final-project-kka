@@ -100,3 +100,5 @@ The pathfinding implemented in this game resulting the ghost being able to chase
   Figure 3.1: A* Path.
 
 
+
+From this comparison, the result of BFS and A* have equal total distances traversed but different paths the ghost takes, this occurs because BFS traverses by its level otherwise A* uses informed search and heuristic value 
