@@ -101,11 +101,19 @@ __A-Star (A*) Search visualization :__
 
 Figure 2.1: A* Search visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
 
+__DFS  Search visualization :__
+
+![image](https://github.com/user-attachments/assets/b3a13a3e-120f-4262-913d-186bfe155355)
+
+Figure 3.2: DFS Search visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
+
+
 
 Both BFS and A* Search Shortest-path have the same length but different Visited Node hence the BFS consumes more time because it visits additional nodes by traversing by level.
 
 BFS		: 09.78 Seconds
 A* Search	: 03.61 Seconds
+DFS		: 15.90 Seconds
 
 
 ### 2. Path Comparison by  64x64 grid game
