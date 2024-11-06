@@ -70,17 +70,19 @@ The game we created is a 2-dimensional game with a 64 by 64 grid. The player is 
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/366db68b-e058-4fae-a073-cbdc298ce1fd" alt="Figure 2.1: The Knight" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="x" alt="Figure 2.2: The Ghost" />
+  <img src="https://github.com/user-attachments/assets/366db68b-e058-4fae-a073-cbdc298ce1fd" alt="Figure 2.1: The Knight" width="320" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d19813f6-9bd5-488b-aadf-3bd10e0b0fce" alt="Figure 2.2: The Ghost" width="320" height="320" />
 </p>
 <p align="center"><b>Figure 2.1: The Knight.</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Figure 2.2: The Ghost.</b></p>
+
 
 <p align="justify">
 While timing the movement with the acid fountains and also avoiding an enemy that is portrayed as The Ghost, The Player has a choice to take Power-ups, these Power-ups can change the search algorithm of The Ghost, the default is A* Search while Blue and Green Power-up changes the algorithm into BFS and DFS respectively.
 </p>
 
 <p align="center">
-  <img src="x" alt="Figure 2.3: Power-ups" />
+  <img src="https://github.com/user-attachments/assets/e49725da-62b8-49ad-986c-c5574729e5e1" alt="Figure 2.3: Power-ups" width="320" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/4710b7de-e8b2-4df1-a30b-1f8fdb5f1513" alt="Figure 2.3: Power-ups" width="320" height="320" />
 </p>
 <p align="center"><b>Figure 2.3: Power-ups.</b></p>
 
@@ -117,17 +119,17 @@ After we trace the path of each pathfinding algorithm we implemented in our game
 ### 1. Visited Nodes/Time Consumed Comparison in Recursive Division (horizontal-skew) maze
 
 <p align="center">
-  <img src="x" alt="Figure 3.0: BFS visualization from Pathfinding Visualizer" />
+  <img src="![image](https://github.com/user-attachments/assets/6ab00b4f-53ff-46c9-a087-867413176fa1)" alt="Figure 3.0: BFS visualization from Pathfinding Visualizer" />
 </p>
 <p align="center"><b>Figure 3.0: BFS visualization from Pathfinding Visualizer.</b></p>
 
 <p align="center">
-  <img src="x" alt="Figure 3.1: A* Search visualization from Pathfinding Visualizer" />
+  <img src="![image](https://github.com/user-attachments/assets/aebe019b-0ad7-4991-9a20-985b2d58fa1c)" alt="Figure 3.1: A* Search visualization from Pathfinding Visualizer" />
 </p>
 <p align="center"><b>Figure 3.1: A* Search visualization from Pathfinding Visualizer.</b></p>
 
 <p align="center">
-  <img src="x" alt="Figure 3.2: DFS Search visualization from Pathfinding Visualizer" />
+  <img src="![image](https://github.com/user-attachments/assets/845f691e-f22a-4c25-91b0-7ee4e54c4f09)" alt="Figure 3.2: DFS Search visualization from Pathfinding Visualizer" />
 </p>
 <p align="center"><b>Figure 3.2: DFS Search visualization from Pathfinding Visualizer.</b></p>
 
