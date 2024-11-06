@@ -56,5 +56,11 @@ In our final project, we are implementing 2 commonly known pathfinding algorithm
 After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as the 64x64 map/grid in our case.
 
 
+# 1. Breadth-First Search
+
+![image](https://github.com/user-attachments/assets/97f1dc0a-a232-470c-842d-208ce2c5e513)
+
+![image](https://github.com/user-attachments/assets/8a95c699-b45a-4690-bfe3-358243261ce7)
+
 
 
