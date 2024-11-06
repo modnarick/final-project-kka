@@ -1,4 +1,4 @@
-### Comparison of Breadth-First Search (BFS) and A* Search Algorithms in Enemy AI Pathfinding ###
+#Comparison of Breadth-First Search (BFS) and A* Search Algorithms in Enemy AI Pathfinding 
 
 |    NRP     |      Name      |
 | :--------: | :------------: |
@@ -13,7 +13,7 @@
 
 
 
-## Introduction
+### Introduction
 
 Pathfinding is an important component in game development, especially for enemy AI that needs to navigate complex environments. Two commonly used algorithms are Breadth-First Search (BFS) and A* Search. Each search offers its advantages and disadvantages in terms of efficiency, time, and speed. In a large grid environment such as a 64x64, the shortest path results by those algorithms may be different.
 
