@@ -23,6 +23,8 @@ Breadth-first search is a graph traversal algorithm that starts traversing the g
 
 A* Search is an informed best-first search algorithm that efficiently determines the lowest cost path between any two nodes in a directed weighted graph with non-negative edge weights. This algorithm is a variant of Dijkstra’s algorithm. A slight difference arises from the fact that an evaluation function is used to determine which node to explore next. [3](https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search) 
 
+Depth First Search (DFS) is an algorithm for exploring a tree or graph by starting at a node and going as deep as possible along each branch before backtracking. It uses a stack to keep track of nodes, either explicitly or through recursion, and is useful in applications like puzzle-solving and pathfinding by fully exploring each path. [4](https://www.javatpoint.com/depth-first-search-algorithm)
+
 The topic that we chose for our final project, is the pathfinding for an enemy to find the player in a made-up video game. In this case, we represent the whole node as a grid 64x64, the root node is the ghost/enemy, and the goal is the player.
 
 
@@ -49,7 +51,6 @@ In our final project, we are implementing 2 commonly known pathfinding algorithm
  2. A-Star (A*) Search
 
  3. Depth-First Search
-
 
 
 After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as the 64x64 map/grid in our case.
