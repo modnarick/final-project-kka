@@ -54,6 +54,7 @@ In search of the best and shortest search algorithm methodology for enemy pathfi
 <p align="justify">
 Take this picture as an example, we are wondering which pathfinding algorithm will be the best and shortest to find the path from the ghost/enemy coordinate into the player location while considering the obstacles and tracing the path for the ghost/enemy to traverse. Because the player moves for each turn, the AI will have to adapt to our current position respectively. We also created power-ups for the player to use to change the enemy’s pathfinding algorithm.
 </p>
+
 ## Uniqueness
 
 <p align="center">
