@@ -49,6 +49,8 @@ In our final project, we are implementing 2 commonly known pathfinding algorithm
  2. A-Star (A*) Search
 
 
-After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as 64x64 grid .
+After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as the 64x64 map/grid in our case.
+
+
 
 
