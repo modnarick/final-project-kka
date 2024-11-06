@@ -159,8 +159,8 @@ The pathfinding implemented in this game results in the ghost being able to chas
 </p>
 
 <p align="center">
-  <img src="x" alt="Figure 4.0: BFS Path" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="x" alt="Figure 4.1: A* Path" />
+  <img src="https://github.com/user-attachments/assets/ccf718cc-f4c6-4b76-9910-fbce1d67f3c9" alt="Figure 4.0: BFS Path" width="320" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/1701ddc6-9750-4546-8796-60a98bad6fcc" alt="Figure 4.1: A* Path" width="320" height="320" />
 </p>
 <p align="center"><b>Figure 4.0: BFS Path.</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Figure 4.1: A* Path.</b></p>
 
@@ -173,8 +173,8 @@ In interactive games and complex environments, such as our 64x64 grid game, the 
 </p>
 
 <p align="center">
-  <img src="x" alt="Figure 4.2: BFS Path" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="x" alt="Figure 4.3: A* Path" />
+  <img src="https://github.com/user-attachments/assets/412623f1-3079-4256-b51a-246b4785b7ce" alt="Figure 4.2: BFS Path" width="320" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f8a4070c-0371-43b3-8b5d-ac4154c16d11" alt="Figure 4.3: A* Path" width="320" height="320" />
 </p>
 <p align="center"><b>Figure 4.2: BFS Path.</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Figure 4.3: A* Path.</b></p>
 
@@ -193,7 +193,7 @@ As for another issue, DFS when implemented is not suitable for pathfinding becau
 </p>
 
 <p align="center">
-  <img src="x" alt="Visual 4.4: Inefficiency of DFS" />
+  <img src="https://github.com/user-attachments/assets/6ebfdb73-fcb3-4370-83c7-6ff9beb0d251" alt="Visual 4.4: Inefficiency of DFS" />
 </p>
 <p align="center"><b>Visual 4.4: Inefficiency of DFS.</b></p>
 
