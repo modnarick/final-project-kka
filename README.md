@@ -34,7 +34,6 @@ The topic that we chose for our final project, is the pathfinding for an enemy t
 In search of the best and shortest search algorithm methodology for an enemy pathfinding in a video game, we try over various different search algorithms (e.g. BFS and A*) to implement an enemy AI pathfinding mechanism and we trace the path traversed by the enemy to find the player. 
 
 ![image](https://github.com/user-attachments/assets/c5c5144b-93a5-426a-b693-d321c9f85a75)
-
 Figure 1.0: Visual representation of the game.
 
 Take this picture as an example, we are wondering which pathfinding algorithm will be the best and shortest to find the path from the ghost/enemy coordinate into the player location while considering the obstacles and tracing the path for the ghost/enemy to traverse. Because the player moves for each turn, the AI will have to adapt to our current position respectively. We also created a power-up for the player to use so that the ghost/enemy teleports back to its original starting point while changing the ghost/enemy search algorithm.
