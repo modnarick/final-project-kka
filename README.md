@@ -39,3 +39,15 @@ In search of the best and shortest search algorithm methodology for an enemy pat
 Figure 1.0: Visual representation of the game.
 
 Take this picture as an example, we are wondering which pathfinding algorithm will be the best and shortest to find the path from the ghost/enemy coordinate into the player location while considering the obstacles and tracing the path for the ghost/enemy to traverse. Because the player moves for each turn, the AI will have to adapt to our current position respectively. We also created a power-up for the player to use so that the ghost/enemy teleports back to its original starting point while changing the ghost/enemy search algorithm.
+
+## Methodology
+
+In our final project, we are implementing 2 commonly used pathfinding algorithms in the game such as : 
+
+Breadth-First Search
+A-Star (A*) Search
+Depth-First Search
+
+After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as 64x64 grid .
+
+
