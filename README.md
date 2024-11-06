@@ -42,10 +42,12 @@ Take this picture as an example, we are wondering which pathfinding algorithm wi
 
 ## Methodology
 
-In our final project, we are implementing 2 commonly used pathfinding algorithms in the game such as : 
+In our final project, we are implementing 2 commonly known pathfinding algorithms in the game such as : 
 
 Breadth-First Search
+
 A-Star (A*) Search
+
 Depth-First Search
 
 After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as 64x64 grid .
