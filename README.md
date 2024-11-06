@@ -122,7 +122,6 @@ To prevent this from happening, we can add a mechanism to remember the previous 
 As for another issue, DFS is not suitable for pathfinding because it doesn't search for the shortest path resulting in an inefficient path and longer length ghost/enemy has to traverse 
 
 ![image](https://github.com/user-attachments/assets/b6476e9d-0bc1-4ee6-afae-98575907d5bf)
-
 Visual 3.5: Inefficiency of DFS
 
 
