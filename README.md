@@ -67,12 +67,10 @@ Breadth-First Search visualization :
 
 ![image](https://github.com/user-attachments/assets/0989304e-2a49-452b-a61c-c8b4beacc3ed)
 </div>
-
 Figure 2.0: BFS visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
 
 A-Star (A*) Search visualization :
 </div>
-
 ![image](https://github.com/user-attachments/assets/24dbd526-a3d2-4dd3-be66-d5771890f9e9)
 </div>
 
