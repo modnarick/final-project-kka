@@ -1,13 +1,31 @@
 # Comparison of Search Algorithms in Enemy AI Pathfinding
 
-| NRP         | Name                                 |
-|-------------|--------------------------------------|
-| 5025221163  | Muhammad Thariq Darobi               |
-| 5025221070  | Muhammad Dzaky Taufiqurrahman        |
-| 5025231078  | Bima Prayoga Miftachul Rahmat        |
-| 5025231068  | Farrell Reynard Jechoniah Simarmata  |
-| 5025231xxx  | Anggota 5                            |
-
+<table align="center">
+  <tr>
+    <th style="text-align:center">NRP</th>
+    <th style="text-align:center">Name</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">5025221163</td>
+    <td style="text-align:center">Muhammad Thariq Darobi</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">5025221070</td>
+    <td style="text-align:center">Muhammad Dzaky Taufiqurrahman</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">5025231078</td>
+    <td style="text-align:center">Bima Prayoga Miftachul Rahmat</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">5025231068</td>
+    <td style="text-align:center">Farrell Reynard Jechoniah Simarmata</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">5025231xxx</td>
+    <td style="text-align:center">Anggota 5</td>
+  </tr>
+</table>
 
 </div>
 
