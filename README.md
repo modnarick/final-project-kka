@@ -57,14 +57,20 @@ Path Comparison from 64x64 grid game
 After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make a conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as the 64x64 map/grid in our case.
 
 # 1. Visited Nodes/Time Consumed Comparison from Pathfinding Visualizer.
+</div>
 
 ![image](https://github.com/user-attachments/assets/64a858d5-f2bf-4a2c-80d2-8bb0d707800c)
+</div>
 
 Breadth-First Search visualization :
+</div>
+
 ![image](https://github.com/user-attachments/assets/0989304e-2a49-452b-a61c-c8b4beacc3ed)
 Figure 2.0: BFS visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
 
 A-Star (A*) Search visualization :
+</div>
+
 ![image](https://github.com/user-attachments/assets/24dbd526-a3d2-4dd3-be66-d5771890f9e9)
 Figure 2.1: A* Search visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
 
