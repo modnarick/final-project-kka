@@ -40,6 +40,10 @@ The game we created is a 2-dimensional game with a 64 by 64 grid. The player is 
 ![image](https://github.com/user-attachments/assets/06e8b3a7-5806-4593-8caa-93366538c82b)
  Figure 2.1: The Knight.
 
+ ![image](https://github.com/user-attachments/assets/47acf2e5-da32-4960-925d-2f36c48bd710)
+ Figure 2.2: The Ghost.
+
+
 
 ## Background and Problem Statement
 
