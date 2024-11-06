@@ -73,7 +73,7 @@ Figure 2.0: BFS visualization from [Pathfinding Visualizer](https://clementmihai
 
 
 
-**A-Star (A*) Search visualization :**
+__A-Star (A*) Search visualization :__
 
 ![image](https://github.com/user-attachments/assets/24dbd526-a3d2-4dd3-be66-d5771890f9e9)
 
