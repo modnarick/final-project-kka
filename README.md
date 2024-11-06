@@ -1,4 +1,4 @@
-# Comparison of Breadth-First Search (BFS) and A* Search Algorithms in Enemy AI Pathfinding 
+# Comparison of Search Algorithms in Enemy AI Pathfinding
 
 |    NRP     |      Name      |
 | :--------: | :------------: |
@@ -10,7 +10,6 @@
 
 
 </div>
-
 ## Introduction
 
 <p align="justify">
@@ -18,24 +17,26 @@ Pathfinding is an important component in game development, especially for enemy 
 </p>
 
 <p align="justify">
-Path-finding refers to the concept of finding the shortest route between two distinct points. The concept has been long explored by mathematicians and computer scientists alike, so much so that it has evolved into an entirely separate field of research. This field is heavily based on Dijkstra’s algorithm for pathfinding on weighted paths, where each path takes a certain amount of time, or weight, to traverse. [1](https://kgsea.org/wp-content/uploads/2020/07/Raymond-Kim-BFS-DFS-%E2%80%93-Path-Finding-Algorithms.pdf)
+Path-finding refers to the concept of finding the shortest route between two distinct points. The concept has been long explored by mathematicians and computer scientists alike, so much so that it has evolved into an entirely separate field of research. This field is heavily based on Dijkstra’s algorithm for pathfinding on weighted paths, where each path takes a certain amount of time, or weight, to traverse. <a href="https://kgsea.org/wp-content/uploads/2020/07/Raymond-Kim-BFS-DFS-%E2%80%93-Path-Finding-Algorithms.pdf">[1]</a>
 </p>
 
 <p align="justify">
-Breadth-first search is a graph traversal algorithm that starts traversing the graph from the root node and explores all the neighboring nodes. Then, it selects the nearest node and explores all the unexplored nodes. While using BFS for traversal, any node in the graph can be considered as the root node. [2](https://www.javatpoint.com/breadth-first-search-algorithm) 
+Breadth-first search is a graph traversal algorithm that starts traversing the graph from the root node and explores all the neighboring nodes. Then, it selects the nearest node and explores all the unexplored nodes. While using BFS for traversal, any node in the graph can be considered as the root node. <a href="https://www.javatpoint.com/breadth-first-search-algorithm">[2]</a>
 </p>
 
 <p align="justify">
-A* Search is an informed best-first search algorithm that efficiently determines the lowest cost path between any two nodes in a directed weighted graph with non-negative edge weights. This algorithm is a variant of Dijkstra’s algorithm. A slight difference arises from the fact that an evaluation function is used to determine which node to explore next. [3](https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search)
+A* Search is an informed best-first search algorithm that efficiently determines the lowest cost path between any two nodes in a directed weighted graph with non-negative edge weights. This algorithm is a variant of Dijkstra’s algorithm. A slight difference arises from the fact that an evaluation function is used to determine which node to explore next. <a href="https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search">[3]</a>
 </p>
 
 <p align="justify">
-The Depth-First Search or DFS algorithm traverses or explores data structures, such as trees and graphs. The algorithm starts at the root node and examines each branch as far as possible before backtracking. [4](https://www.javatpoint.com/depth-first-search-algorithm)
+The Depth-First Search or DFS algorithm traverses or explores data structures, such as trees and graphs. The algorithm starts at the root node and examines each branch as far as possible before backtracking. <a href="https://www.javatpoint.com/depth-first-search-algorithm">[4]</a>
 </p>
 
 <p align="justify">
 The topic that we chose for our final project is the pathfinding for an enemy to find the player in a made-up video game. In this case, we represent the whole node as a grid 64x64, the root node is the ghost/enemy, and the goal is the player.
 </p>
+
+---
 
 ## Background and Problem Statement
 
@@ -54,6 +55,8 @@ In search of the best and shortest search algorithm methodology for enemy pathfi
 <p align="justify">
 Take this picture as an example, we are wondering which pathfinding algorithm will be the best and shortest to find the path from the ghost/enemy coordinate into the player location while considering the obstacles and tracing the path for the ghost/enemy to traverse. Because the player moves for each turn, the AI will have to adapt to our current position respectively. We also created power-ups for the player to use to change the enemy’s pathfinding algorithm.
 </p>
+
+---
 
 ## Uniqueness
 
