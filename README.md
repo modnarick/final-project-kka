@@ -70,7 +70,7 @@ The game we created is a 2-dimensional game with a 64 by 64 grid. The player is 
 </p>
 
 <p align="center">
-  <img src="x" alt="Figure 2.1: The Knight" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/366db68b-e058-4fae-a073-cbdc298ce1fd" alt="Figure 2.1: The Knight" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="x" alt="Figure 2.2: The Ghost" />
 </p>
 <p align="center"><b>Figure 2.1: The Knight.</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Figure 2.2: The Ghost.</b></p>
