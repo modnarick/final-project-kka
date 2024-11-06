@@ -91,12 +91,12 @@ A* Search	: 03.61 Seconds
 The pathfinding implemented in this game resulting the ghost being able to chase the player by  using either BFS or A* algorithm based on the power-up user’s consumed 
 
 
-![image](https://github.com/user-attachments/assets/f6c1add1-f5e1-431a-a5ad-cd7b552b678b)
+![image](https://github.com/user-attachments/assets/cea2d915-866a-4644-b32f-1b829d8606ca)
   Figure 3.0: BFS Path.
 
 
 
-![image](https://github.com/user-attachments/assets/c0a8a42f-8f06-4d5c-b545-54485086f6ba)
+![image](https://github.com/user-attachments/assets/c942b85f-2d65-4964-be1c-9b4ac25e2f78)
   Figure 3.1: A* Path.
 
 
