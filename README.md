@@ -21,7 +21,7 @@ Path-finding refers to the concept of finding the shortest route between two dis
 
 Breadth-first search is a graph traversal algorithm that starts traversing the graph from the root node and explores all the neighboring nodes. Then, it selects the nearest node and explores all the unexplored nodes. While using BFS for traversal, any node in the graph can be considered as the root node. [2](https://www.javatpoint.com/breadth-first-search-algorithm) 
 
-A* Search is an informed best-first search algorithm that efficiently determines the lowest cost path between any two nodes in a directed weighted graph with non-negative edge weights. This algorithm is a variant of Dijkstra’s algorithm. A slight difference arises from the fact that an evaluation function is used to determine which node to explore next. [3](https://www.javatpoint.com/breadth-first-search-algorithm](https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search)) 
+A* Search is an informed best-first search algorithm that efficiently determines the lowest cost path between any two nodes in a directed weighted graph with non-negative edge weights. This algorithm is a variant of Dijkstra’s algorithm. A slight difference arises from the fact that an evaluation function is used to determine which node to explore next. [3](https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search) 
 
 The topic that we chose for our final project, is the pathfinding for an enemy to find the player in a made-up video game. In this case, we represent the whole node as a grid 64x64, the root node is the ghost/enemy, and the goal is the player.
 
@@ -47,6 +47,9 @@ In our final project, we are implementing 2 commonly known pathfinding algorithm
  1. Breadth-First Search
 
  2. A-Star (A*) Search
+
+ 3. Depth-First Search
+
 
 
 After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as the 64x64 map/grid in our case.
