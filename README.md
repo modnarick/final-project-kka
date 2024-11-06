@@ -61,7 +61,7 @@ After we trace the path of each pathfinding algorithm we implemented in our game
 
 ![image](https://github.com/user-attachments/assets/64a858d5-f2bf-4a2c-80d2-8bb0d707800c)
 
-Breadth-First Search visualization :
+**Breadth-First Search visualization :**
 
 ![image](https://github.com/user-attachments/assets/0989304e-2a49-452b-a61c-c8b4beacc3ed)
 
@@ -73,7 +73,7 @@ Figure 2.0: BFS visualization from [Pathfinding Visualizer](https://clementmihai
 
 
 
-A-Star (A*) Search visualization :
+**A-Star (A*) Search visualization :**
 
 ![image](https://github.com/user-attachments/assets/24dbd526-a3d2-4dd3-be66-d5771890f9e9)
 
