@@ -30,7 +30,15 @@ The topic that we chose for our final project, is the pathfinding for an enemy t
 
 ## Uniqueness
 
-we focus on creating a pathfinding algorithm for enemy characters in a game. The goal is to identify the quickest and most efficient search method for enemy movement by testing different algorithms. We’ll be looking at how these algorithms perform in terms of pathfinding, especially in environments with obstacles. By comparing these methods, we hope to choose the best one to improve the enemy AI's realism and performance in the game.
+
+![image](https://github.com/user-attachments/assets/210142a4-30d2-4d7b-80d4-0b80c306ded5)
+Figure 2.0: The Map.
+
+The game we created is a 2-dimensional game with a 64 by 64 grid. The player is portrayed as The Knight who has the objective of finding three keys inside The Dungeon, and finding the way out in the center of The Dungeon.
+
+![image](https://github.com/user-attachments/assets/c266cdf4-0566-449d-8406-29342be81644)
+ Figure 2.1: The Knight.
+
 
 ## Background and Problem Statement
 
