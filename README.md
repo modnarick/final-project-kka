@@ -1,4 +1,4 @@
-### Comparison of Breadth-First Search (BFS) and A* Search Algorithms in Enemy AI Pathfinding
+### Comparison of Breadth-First Search (BFS) and A* Search Algorithms in Enemy AI Pathfinding ###
 
 |    NRP     |      Name      |
 | :--------: | :------------: |
