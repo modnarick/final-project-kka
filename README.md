@@ -44,6 +44,15 @@ The game we created is a 2-dimensional game with a 64 by 64 grid. The player is 
  Figure 2.2: The Ghost.
 
 
+While timing the movement with the acid fountains and also avoiding an enemy that is portrayed as The Ghost, The Player has a choice to take Power-ups, these Power-ups can change the search algorithm of The Ghost, the default is A* Search while Blue and Green Power-up changes the algorithm into BFS and DFS respectively.
+
+![image](https://github.com/user-attachments/assets/38f95a1c-f638-484d-9b49-d14e0b866a0a)
+Figure 2.3: Power-ups.
+
+Our project aims to find an efficient and fastest search algorithm for enemy pathfinding by experimenting with various methods while considering time and memory constraints. This setup not only adds complexity with obstructions but also offers a practical application of theoretical concepts. By comparing these algorithms and experimenting them into the enemy AI mechanism.
+
+
+
 
 ## Background and Problem Statement
 
