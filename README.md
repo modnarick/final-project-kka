@@ -96,7 +96,7 @@ The pathfinding implemented in this game resulting the ghost being able to chase
 
 
 
-![image](https://github.com/user-attachments/assets/3013afa9-e882-4d47-8d12-ea9abbe7e15e)
+![image](https://github.com/user-attachments/assets/c0a8a42f-8f06-4d5c-b545-54485086f6ba)
   Figure 3.1: A* Path.
 
 
