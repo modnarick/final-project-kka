@@ -92,15 +92,12 @@ The pathfinding implemented in this game resulting the ghost being able to chase
 
 
 ![image](https://github.com/user-attachments/assets/99775a6d-3b05-4860-ac8d-754b8371a029)
-</div>
 
   Figure 3.0: BFS Path.
 
 
-</div>
 
 ![image](https://github.com/user-attachments/assets/3013afa9-e882-4d47-8d12-ea9abbe7e15e)
-</div>
 
   Figure 3.1: A* Path.
 
