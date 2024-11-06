@@ -110,3 +110,19 @@ Figure 3.2: BFS Path.
 
 ![image](https://github.com/user-attachments/assets/3fa66e8c-ba2b-4404-a8cb-2d500dce0144)
  Figure 3.3: A* Path.
+
+
+
+### 3. Inefficient Pathfinding by Depth-First Search (DFS)
+
+The issue of the enemy moving back and forth occurs because the DFS algorithm can create a path that immediately returns to the previous position. This is typical behavior for DFS, as it explores as far as possible along each branch before backtracking.
+
+To prevent this from happening, we can add a mechanism to remember the previous position and avoid generating a path that immediately returns to that position. In this game’s case, we coded it so that the enemy remembers its last two positions and made it so that it cannot go back to those positions. 
+
+As for another issue, DFS is not suitable for pathfinding because it doesn't search for the shortest path resulting in an inefficient path and longer length ghost/enemy has to traverse 
+
+![image](https://github.com/user-attachments/assets/b6476e9d-0bc1-4ee6-afae-98575907d5bf)
+
+Visual 3.5: Inefficiency of DFS
+
+
