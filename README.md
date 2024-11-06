@@ -86,13 +86,15 @@ BFS		: 09.78 Seconds
 A* Search	: 03.61 Seconds
 
 
-# 2. Path Comparison by  64x64 grid game
+### 2. Path Comparison by  64x64 grid game
 
 The pathfinding implemented in this game resulting the ghost being able to chase the player by  using either BFS or A* algorithm based on the power-up user’s consumed 
 
 
+![image](https://github.com/user-attachments/assets/99775a6d-3b05-4860-ac8d-754b8371a029)
+  Figure 3.0: BFS Path.
 
-
-
+![image](https://github.com/user-attachments/assets/3013afa9-e882-4d47-8d12-ea9abbe7e15e)
+  Figure 3.1: A* Path.
 
 
