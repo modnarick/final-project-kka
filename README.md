@@ -44,23 +44,43 @@ Take this picture as an example, we are wondering which pathfinding algorithm wi
 
 ## Methodology
 
-In our final project, we are implementing 2 commonly known pathfinding algorithms in the game such as : 
+In our final project, we are implementing three commonly known pathfinding algorithms such as: 
+Breadth-First Search
+A-Star (A*) Search
+Depth-First Search
 
- 1. Breadth-First Search
+And we are making three comparisons from various environments such as:
 
- 2. A-Star (A*) Search
+Visited Nodes/Time Consumed Comparison from Pathfinding Visualizer.
+Path Comparison from 64x64 grid game
 
- 3. Depth-First Search
+After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make a conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as the 64x64 map/grid in our case.
+
+# 1. Visited Nodes/Time Consumed Comparison from Pathfinding Visualizer.
+
+![image](https://github.com/user-attachments/assets/64a858d5-f2bf-4a2c-80d2-8bb0d707800c)
+
+Breadth-First Search visualization :
+![image](https://github.com/user-attachments/assets/0989304e-2a49-452b-a61c-c8b4beacc3ed)
+Figure 2.0: BFS visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
+
+A-Star (A*) Search visualization :
+![image](https://github.com/user-attachments/assets/24dbd526-a3d2-4dd3-be66-d5771890f9e9)
+Figure 2.1: A* Search visualization from [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
+
+Both BFS and A* Search Shortest-path have the same length but different Visited Node hence the BFS consumes more time because it visits additional nodes by traversing by level.
+
+BFS		: 09.78 Seconds
+A* Search	: 03.61 Seconds
 
 
-After we trace the path of each pathfinding algorithm we implemented in our game, we are able  to make conclusion that each pathfinding algorithm might result in a different path, especially in a large and complex environment, such as the 64x64 map/grid in our case.
+# 2. Path Comparison by  64x64 grid game
+
+The pathfinding implemented in this game resulting the ghost being able to chase the player by  using either BFS or A* algorithm based on the power-up user’s consumed 
 
 
-# 1. Breadth-First Search
 
-![image](https://github.com/user-attachments/assets/97f1dc0a-a232-470c-842d-208ce2c5e513)
 
-![image](https://github.com/user-attachments/assets/8a95c699-b45a-4690-bfe3-358243261ce7)
 
 
 
