@@ -28,7 +28,7 @@ The topic that we chose for our final project, is the pathfinding for an enemy t
 
 ## Uniqueness
 
-Our pre-final presentation will focus on creating a pathfinding algorithm for enemy characters in a game. The goal is to identify the quickest and most efficient search method for enemy movement by testing different algorithms. We’ll be looking at how these algorithms perform in terms of speed and memory usage, especially in environments with obstacles. By comparing these methods, we hope to choose the best one to improve the enemy AI's realism and performance in the game.
+we focus on creating a pathfinding algorithm for enemy characters in a game. The goal is to identify the quickest and most efficient search method for enemy movement by testing different algorithms. We’ll be looking at how these algorithms perform in terms of pathfinding, especially in environments with obstacles. By comparing these methods, we hope to choose the best one to improve the enemy AI's realism and performance in the game.
 
 ## Background and Problem Statement
 
