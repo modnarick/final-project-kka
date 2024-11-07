@@ -1,5 +1,5 @@
 # Comparison of Search Algorithms in Enemy AI Pathfinding
-<a>href="https://drive.google.com/drive/folders/1v15SM0LznL_8jslmJgK4DhrvJzzM8K5d?usp=drive_link"> ## Link Game </a> 
+## <a>href="https://drive.google.com/drive/folders/1v15SM0LznL_8jslmJgK4DhrvJzzM8K5d?usp=drive_link">Link Game </a> 
 
 <table align="center">
   <tr>
