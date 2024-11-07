@@ -205,24 +205,24 @@ From our comparison of various environments and search algorithms, we can conclu
 
 ## Reference 
 
-- [BFS & DFS – Path Finding Algorithms](https://kgsea.org/wp-content/uploads/2020/07/Raymond-Kim-BFS-DFS-%E2%80%93-Path-Finding-Algorithms.pdf).  
-  Citation: Raymond, K. (2020). BFS & DFS – Path Finding Algorithms. Chadwick International School. Available at: https://kgsea.org/wp-content/uploads/2020/07/Raymond-Kim-BFS-DFS-%E2%80%93-Path-Finding-Algorithms.pdf
+- Kim Raymond. 2020. BFS & DFS – Path Finding Algorithms. Chadwick International School.
+  https://kgsea.org/wp-content/uploads/2020/07/Raymond-Kim-BFS-DFS-%E2%80%93-Path-Finding-Algorithms.pdf
 
-- [Breadth First Search Algorithm - Javatpoint](https://www.javatpoint.com/breadth-first-search-algorithm).  
-  Citation: Javatpoint. (n.d.). Breadth First Search Algorithm. Available at: https://www.javatpoint.com/breadth-first-search-algorithm
+- Javatpoint. (n.d.). Breadth First Search Algorithm.
+  https://www.javatpoint.com/breadth-first-search-algorithm
 
-- [A* Search - Codecademy](https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search).  
-  Citation: Codecademy. (n.d.). A* Search Algorithm. Available at: https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search
+- TECHBREAUX. 2023. A* Search Algorithm.
+  https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search
 
-- [DFS Algorithm - Simplilearn](https://www.simplilearn.com/tutorials/data-structure-tutorial/dfs-algorithm).  
-  Citation: Simplilearn. (n.d.). DFS Algorithm. Available at: https://www.simplilearn.com/tutorials/data-structure-tutorial/dfs-algorithm
+- A. S. Ravikiran. 2023. DFS Algorithm.
+  https://www.simplilearn.com/tutorials/data-structure-tutorial/dfs-algorithm
 
-- [A Tile Pathfinding - Unity Asset Store](https://assetstore.unity.com/packages/tools/behavior-ai/a-tile-pathfinding-easy-pathfinding-for-tiles-136493).  
-  Citation: Unity Asset Store. (n.d.). A Tile Pathfinding: Easy Pathfinding for Tiles. Available at: https://assetstore.unity.com/packages/tools/behavior-ai/a-tile-pathfinding-easy-pathfinding-for-tiles-136493
+- TednesdayGames. 2019. A Tile Pathfinding: Easy Pathfinding for Tiles.
+  https://assetstore.unity.com/packages/tools/behavior-ai/a-tile-pathfinding-easy-pathfinding-for-tiles-136493
 
-- [Kenney Assets](https://kenney.nl/assets).  
-  Citation: Kenney. (n.d.). Assets. Available at: https://kenney.nl/assets
+- Kenney. (n.d.). Assets.
+  https://kenney.nl/assets
 
-- [Pathfinding Visualizer - Clement Mihailescu](https://clementmihailescu.github.io/Pathfinding-Visualizer).  
-  Citation: Mihailescu, C. (n.d.). Pathfinding Visualizer. Available at: https://clementmihailescu.github.io/Pathfinding-Visualizer
+- Mihailescu, C. (n.d.). Pathfinding Visualizer.
+  https://clementmihailescu.github.io/Pathfinding-Visualizer
 
