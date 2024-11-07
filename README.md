@@ -127,26 +127,29 @@ And we are making three comparisons from various environments such as:
 After we trace the path of each pathfinding algorithm we implemented in our game and analyze the Pathfinding Visualizer, we are able to conclude that each pathfinding algorithm might result in a different path, visited node, and speed, especially in a large and complex environment, such as the 64x64 map/grid and Recursive Division (horizontal-skew) maze.
 </p>
 
+
 ### 1. Visited Nodes/Time Consumed Comparison in Recursive Division (horizontal-skew) maze
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ab00b4f-53ff-46c9-a087-867413176fa1" alt="Figure 3.0: BFS visualization from Pathfinding Visualizer" />
+  <a href="https://drive.google.com/file/d/1OsnP3U6bzKimRN4Hh1WhQ_kUau_2bVsk/view?usp=drive_link">
+    <img src="https://github.com/user-attachments/assets/6ab00b4f-53ff-46c9-a087-867413176fa1" alt="BFS visualization" />
+  </a>
 </p>
-<p align="center"><b>Figure 3.0: BFS visualization from Pathfinding Visualizer.</b></p>
+<p align="center"><b>Click the image to view the BFS visualization video.</b></p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aebe019b-0ad7-4991-9a20-985b2d58fa1c" alt="Figure 3.1: A* Search visualization from Pathfinding Visualizer" />
+  <a href="https://drive.google.com/file/d/18f4UdHh_d6XK3rRpquPPoigkHXq9No0q/view?usp=drive_link">
+    <img src="https://github.com/user-attachments/assets/aebe019b-0ad7-4991-9a20-985b2d58fa1c" alt="A* Search visualization" />
+  </a>
 </p>
-<p align="center"><b>Figure 3.1: A* Search visualization from Pathfinding Visualizer.</b></p>
+<p align="center"><b>Click the image to view the A* Search visualization video.</b></p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/845f691e-f22a-4c25-91b0-7ee4e54c4f09" alt="Figure 3.2: DFS Search visualization from Pathfinding Visualizer" />
+  <a href="https://drive.google.com/file/d/1gJjMpItmG43_DgoOWjUNLIUlctP2i476/view?usp=drive_link">
+    <img src="https://github.com/user-attachments/assets/845f691e-f22a-4c25-91b0-7ee4e54c4f09" alt="DFS Search visualization" />
+  </a>
 </p>
-<p align="center"><b>Figure 3.2: DFS Search visualization from Pathfinding Visualizer.</b></p>
-
-<p align="justify">
-Both BFS and A* Shortest-paths have the same length but different Visited Nodes, hence the BFS consumes more time because it visits additional nodes by traversing by level. Meanwhile, DFS does not guarantee the shortest path, making the path length longer compared with BFS and A* because it traverses by depth.
-</p>
+<p align="center"><b>Click the image to view the DFS Search visualization video.</b></p>
 
 - BFS: 10.41 Seconds
 - A* Search: 04.81 Seconds
