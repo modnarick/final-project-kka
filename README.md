@@ -138,14 +138,14 @@ After we trace the path of each pathfinding algorithm we implemented in our game
 <p align="center"><b>Click the image to view the BFS visualization video.</b></p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/18f4UdHh_d6XK3rRpquPPoigkHXq9No0q/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1gJjMpItmG43_DgoOWjUNLIUlctP2i476/view?usp=drive_link">
     <img src="https://github.com/user-attachments/assets/aebe019b-0ad7-4991-9a20-985b2d58fa1c" alt="A* Search visualization" />
   </a>
 </p>
 <p align="center"><b>Click the image to view the A* Search visualization video.</b></p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1gJjMpItmG43_DgoOWjUNLIUlctP2i476/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/18f4UdHh_d6XK3rRpquPPoigkHXq9No0q/view?usp=drive_link">
     <img src="https://github.com/user-attachments/assets/845f691e-f22a-4c25-91b0-7ee4e54c4f09" alt="DFS Search visualization" />
   </a>
 </p>
