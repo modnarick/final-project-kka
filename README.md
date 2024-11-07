@@ -22,8 +22,8 @@
     <td style="text-align:center">Farrell Reynard Jechoniah Simarmata</td>
   </tr>
   <tr>
-    <td style="text-align:center">5025231xxx</td>
-    <td style="text-align:center">Anggota 5</td>
+    <td style="text-align:center">5025231071</td>
+    <td style="text-align:center">Haidar Daffa Firzatullah</td>
   </tr>
 </table>
 
