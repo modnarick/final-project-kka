@@ -11,16 +11,17 @@ namespace SimplePF2D
         private Dictionary<NavNode, NavNode> cameFrom;
         private List<Vector3Int> pathPoints;
         private bool pathFound;
-        private List<GameObject> debugMarkers;
+        private GameObject debugMarkerPrefab;
+        private List<GameObject> debugMarkers = new List<GameObject>();
 
-        public BFSAlgorithm(SimplePathFinding2D newPf)
+        public BFSAlgorithm(SimplePathFinding2D newPf, GameObject markerPrefab)
         {
             pf = newPf;
             queue = new Queue<NavNode>();
             cameFrom = new Dictionary<NavNode, NavNode>();
             pathPoints = new List<Vector3Int>();
             pathFound = false;
-            debugMarkers = new List<GameObject>();
+            debugMarkerPrefab = markerPrefab;
         }
 
         public bool CreatePath(NavNode startNode, NavNode endNode)
@@ -62,7 +63,7 @@ namespace SimplePF2D
             if (pathFound)
             {
                 UnpackPath(endNode);
-                AddDebugMarkers();
+                AddDebugMarkers(Color.blue); // Add blue markers for BFS
                 return true;
             }
             return false;
@@ -113,16 +114,17 @@ namespace SimplePF2D
             return pf;
         }
 
-        private void AddDebugMarkers()
+        private void AddDebugMarkers(Color color)
         {
             foreach (var point in pathPoints)
             {
-                GameObject marker = Object.Instantiate(pf.DebugMarkerObject, pf.NavToWorld(point), Quaternion.identity);
+                GameObject marker = Object.Instantiate(debugMarkerPrefab, pf.NavToWorld(point), Quaternion.identity);
+                marker.GetComponent<SpriteRenderer>().color = color; // Set marker color
                 debugMarkers.Add(marker);
             }
         }
 
-        private void ClearDebugMarkers()
+        public void ClearDebugMarkers()
         {
             foreach (var marker in debugMarkers)
             {
