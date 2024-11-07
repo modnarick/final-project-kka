@@ -151,6 +151,9 @@ After we trace the path of each pathfinding algorithm we implemented in our game
 </p>
 <p align="center"><b>Click the image to view the DFS Search visualization video.</b></p>
 
+<p align="justify">
+Both BFS and A* Shortest-paths have the same length but different Visited Nodes, hence the BFS consumes more time because it visits additional nodes by traversing by level. Meanwhile, DFS does not guarantee the shortest path, making the path length longer compared with BFS and A* because it traverses by depth.
+
 - BFS: 10.41 Seconds
 - A* Search: 04.81 Seconds
 - DFS: 17.53 Seconds
