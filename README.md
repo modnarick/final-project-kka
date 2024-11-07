@@ -205,24 +205,24 @@ From our comparison of various environments and search algorithms, we can conclu
 
 ## Reference 
 
-- Kim Raymond. 2020. BFS & DFS – Path Finding Algorithms. Chadwick International School.
+- Kim Raymond. 2020. BFS & DFS – Path Finding Algorithms. Chadwick International School.  
   https://kgsea.org/wp-content/uploads/2020/07/Raymond-Kim-BFS-DFS-%E2%80%93-Path-Finding-Algorithms.pdf
 
-- Javatpoint. (n.d.). Breadth First Search Algorithm.
+- Javatpoint. (n.d.). Breadth First Search Algorithm.  
   https://www.javatpoint.com/breadth-first-search-algorithm
 
-- TECHBREAUX. 2023. A* Search Algorithm.
+- TECHBREAUX. 2023. A* Search Algorithm.  
   https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search
 
-- A. S. Ravikiran. 2023. DFS Algorithm.
+- A. S. Ravikiran. 2023. DFS Algorithm.  
   https://www.simplilearn.com/tutorials/data-structure-tutorial/dfs-algorithm
 
-- TednesdayGames. 2019. A Tile Pathfinding: Easy Pathfinding for Tiles.
+- TednesdayGames. 2019. A Tile Pathfinding: Easy Pathfinding for Tiles.  
   https://assetstore.unity.com/packages/tools/behavior-ai/a-tile-pathfinding-easy-pathfinding-for-tiles-136493
 
-- Kenney. (n.d.). Assets.
+- Kenney. (n.d.). Assets.  
   https://kenney.nl/assets
 
-- Mihailescu, C. (n.d.). Pathfinding Visualizer.
+- Mihailescu, C. (n.d.). Pathfinding Visualizer.  
   https://clementmihailescu.github.io/Pathfinding-Visualizer
 
